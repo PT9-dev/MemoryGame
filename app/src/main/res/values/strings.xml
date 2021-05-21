@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Basic Memory game </string>
+    <string name="box1">Box One </string>
+    <string name="box2">Box Two </string>
+    <string name="box3">Box Three </string>
+    <string name="box4">Box Four </string>
+    <string name="box5">Box Five </string>
+    <string name="info_detail">Tap the Button to Start the game </string>
+    <string name="how_to_play">Play</string>
+    <string name="RED">RED</string>
+    <string name="YELLOW">YELLOW</string>
+    <string name="BLUE">BLUE</string>
+    <string name="game_detail">Watch and know the order in which the cubes appear</string>
+    <string name="game_detail_submit">Select the boxes in the order in which the cubes appeared</string>
+    <string name="done_button">DONE</string>
+    <string name="play_again">PLAY AGAIN</string>
+
+</resources>
