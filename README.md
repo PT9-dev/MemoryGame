@@ -1,2 +1,2 @@
-# Starting-android
+# Memory Game
 my first android project
